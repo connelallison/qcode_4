@@ -5,11 +5,7 @@ const rand4 = function () {
 // console.log(rand4());
 // console.log(rand4());
 // console.log(rand4());
-// console.log(rand4());
-// console.log(rand4());
-// console.log(rand4());
-// console.log(rand4());
-// console.log(rand4());
+
 
 const rand5 = function () {
   let results = rollRand4();
@@ -28,13 +24,7 @@ const rollRand4 = function () {
 // console.log(rand5());
 // console.log(rand5());
 // console.log(rand5());
-// console.log(rand5());
-// console.log(rand5());
-// console.log(rand5());
-// console.log(rand5());
-// console.log(rand5());
-// console.log(rand5());
-// console.log(rand5());
+
 
 const testTable = [0, 0, 0, 0, 0, 0];
 
